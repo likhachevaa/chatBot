@@ -1,0 +1,12 @@
+@import "@styles/variables";
+.home {
+  max-width: 1200px;
+  height: 90%;
+  margin: 0 auto;
+
+  &__chats {
+    height: calc(100% - 82px);
+    display: flex;
+    align-items: stretch;
+  }
+}

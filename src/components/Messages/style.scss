@@ -1,0 +1,23 @@
+@import "@styles/variables";
+.message {
+  background-color: $main-color;
+  border-radius: 15px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+  &__wrap {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.message.message__other {
+  align-self: flex-start;
+  width: auto;
+}
+
+.message.message__me {
+  align-self: flex-end;
+  text-align: right;
+  width: auto;
+}

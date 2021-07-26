@@ -1,0 +1,16 @@
+@import "@styles/variables";
+.msg-input {
+  display: flex;
+
+  & > div {
+    flex: 1;
+  }
+
+  & > button {
+    background-color: $main-color;
+    padding: 14px 12px 10px 16px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}

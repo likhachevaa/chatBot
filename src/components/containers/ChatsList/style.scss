@@ -1,0 +1,11 @@
+@import "@styles/variables";
+.chats-list {
+  flex: 1 1 30%;
+  background-color: $dark-back-color;
+  padding: 10px;
+
+  &__link {
+    text-decoration: none;
+    color: #000000;
+  }
+}

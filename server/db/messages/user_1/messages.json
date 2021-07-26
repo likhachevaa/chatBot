@@ -1,0 +1,56 @@
+[
+    {
+        "name": "bot",
+        "text": "Hey!",
+        "style": "message__other",
+        "chatId": 0
+    },
+    {
+        "name": "bot",
+        "text": "This is ZERO chat!",
+        "style": "message__other",
+        "chatId": 0
+    },
+    {
+        "name": "bot",
+        "text": "How are you?",
+        "style": "message__other",
+        "chatId": 0
+    },
+    {
+        "name": "bot",
+        "text": "Hey!",
+        "style": "message__other",
+        "chatId": 1
+    },
+    {
+        "name": "bot",
+        "text": "This is chat №1!",
+        "style": "message__other",
+        "chatId": 1
+    },
+    {
+        "name": "bot",
+        "text": "Hey!",
+        "style": "message__other",
+        "chatId": 2
+    },
+    {
+        "name": "bot",
+        "text": "This is chat №2!",
+        "style": "message__other",
+        "chatId": 2
+    },
+    {
+        "name": "bot",
+        "text": "Hey!",
+        "style": "message__other",
+        "chatId": 3
+    },
+    {
+        "name": "bot",
+        "text": "This is chat №3!",
+        "style": "message__other",
+        "chatId": 3
+    }
+]

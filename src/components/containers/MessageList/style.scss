@@ -1,0 +1,16 @@
+@import "@styles/variables";
+.message-list {
+  flex: 1 1 70%;
+  padding: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &__msg {
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+}
